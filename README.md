@@ -1,4 +1,4 @@
-# MacAulayLab-Age-Study
+# MacAulayLab: Age study of the choroid plexus
 The work and scripts are done by the MacAulay Lab.\
 All programs used are free and open-source.
 In the interest of open science and reproducibility, all data and source code used in our research is provided here.\
