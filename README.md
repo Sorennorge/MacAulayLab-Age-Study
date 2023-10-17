@@ -1,6 +1,4 @@
 # MacAulayLab-Age-Study
-
-# MacAulayLab - Obese Zucker rats with testosterone treatment #
 The work and scripts are done by the MacAulay Lab.\
 All programs used are free and open-source.
 In the interest of open science and reproducibility, all data and source code used in our research is provided here.\
@@ -32,11 +30,11 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 ### Density plot ###
 2.2.1 - Density plots for normalized data.py
 ### PCA ###
-3.1.2 - PCA plots for raw data.py
+3.1.2 - PCA plots for raw data.py \
 3.1.3 - PCA plots for raw data (sorted data).py
 
 ### VennDiagram ###
-4.1.1 - Create gene lists for venn.py
+4.1.1 - Create gene lists for venn.py \
 4.2.1 - Venndiagram of overlapping genes.R
 
 ## Differential expression analysis - LRT method ##
